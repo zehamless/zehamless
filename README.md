@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mahezpradana4@gmail.com**
 
-- ⚡ Fun fact **Loves monster hunter**
+- ⚡ Fun fact ** I Loves Monster Hunter Game**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
