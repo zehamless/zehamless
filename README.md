@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahez Pradana</h1>
-<h3 align="center">Man who thirsts for knowledge</h3>
+<h3 align="center">Gimme some drink</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zehamless" alt="zehamless" /></a> </p>
 
